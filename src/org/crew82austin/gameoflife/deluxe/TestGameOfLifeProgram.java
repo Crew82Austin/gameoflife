@@ -1,4 +1,4 @@
-package crew82.gameoflife.deluxe;
+package org.crew82austin.gameoflife.deluxe;
 
 import static org.junit.Assert.assertEquals;
 

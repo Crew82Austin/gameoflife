@@ -1,4 +1,4 @@
-package crew82.gameoflife.simple;
+package org.crew82austin.gameoflife.simple;
 
 import static org.junit.Assert.*;
 

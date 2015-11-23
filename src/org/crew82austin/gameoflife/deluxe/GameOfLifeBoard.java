@@ -1,4 +1,4 @@
-package crew82.gameoflife.deluxe;
+package org.crew82austin.gameoflife.deluxe;
 
 import java.io.BufferedReader;
 import java.io.IOException;
