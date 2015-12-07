@@ -1,6 +1,7 @@
 package org.crew82austin.gameoflife.simple;
 
 
+
 public class GameOfLife
 {
 	public static void main(String[] args) throws Exception
@@ -47,11 +48,11 @@ public class GameOfLife
 			{
 				if (cells[i][j])
 				{
-					System.out.print('X');
+					System.out.print("><");
 				}
 				else
 				{
-					System.out.print(' ');
+					System.out.print("  ");
 				}
 			}
 			System.out.println();
